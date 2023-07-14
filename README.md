@@ -17,7 +17,6 @@
 
 
 <a target="_blank" align="center">
-    <a href="https://www.linkedin.com/in/muhammed-mado/">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif">
  
 </a>
@@ -34,7 +33,9 @@
 <br/>
     <h3 href="https://www.linkedin.com/in/muhammed-mado/">
 
-<a align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<a align="center" > 
+  <a href="https://github.com/MuhammedMado/">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p></p>
 
