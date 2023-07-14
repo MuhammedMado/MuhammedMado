@@ -2,7 +2,7 @@
 <h3 align="center">Physical Design Engineer </h3>
 
 <div align="center">
-  <a href="https://github.com/MuhammedMado/">
+  <a href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -17,7 +17,7 @@
 
 
 <a target="_blank" align="center">
-    <a href="https://www.linkedin.com/in/muhammed-mado/">
+    <a href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
 
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif">
  
@@ -33,7 +33,7 @@
 
 - 📄 Know about my experiences <a href="https://bit.ly/MadoResume">Resume</a>
 <br/>
-<h3 align="center" >   <a style="margin-left: 10px;" target="_blank" href="https://github.com/MuhammedMado/">
+<h3 align="center" >   <a style="margin-left: 10px;" target="_blank" href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
           <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></a>Connect with me 🤝 </h3>
 
 <p></p>
