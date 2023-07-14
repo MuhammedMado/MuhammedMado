@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Muhammed+Khaled)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Muhammed+Khaled)](https://git.io/typing-svg)
 <h3 align="center">Physical Design Engineer </h3>
 
 <div align="center">
