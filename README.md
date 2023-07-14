@@ -10,6 +10,11 @@
 <p></p>
 <div size='20px'> My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, and Logic Synthesis.
 </div>
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif">
@@ -38,7 +43,6 @@
           <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/MuhammedMaDo0/">
     <img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
     <a style="margin-left: 5px;" target="_blank" href="https://bit.ly/MadoResume">
           <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
