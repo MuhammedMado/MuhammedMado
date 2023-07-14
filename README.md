@@ -1,35 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Muhammed Khaled - Physical Design Engineer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    
-    h1, h3 {
-      text-align: center;
-    }
-    
-    .center {
-      display: flex;
-      justify-content: center;
-    }
-    
-    .social-icons {
-      margin-top: 20px;
-    }
-    
-    .social-icons img {
-      margin: 0 10px;
-      width: 30px;
-      height: 30px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Hello 👋, I'm Muhammed Khaled</h1>
-  <h3>Physical Design Engineer</h3>
+<h1 class="center">Hello 👋, I'm Muhammed Khaled</h1>
+  <h3 class="center">Physical Design Engineer</h3>
 
   <div class="center">
     <a href="https://github.com/MuhammedMado/">
@@ -43,7 +13,7 @@
     <p>My areas of interest include ASIC design, Timing analysis (STA), Physical Design, and Logic Synthesis.</p>
   </div>
 
-  <div class="center">
+  <div class="social-icons center">
     <a href="https://www.linkedin.com/in/muhammed-mado/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
