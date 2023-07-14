@@ -39,7 +39,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/MuhammedMaDo0/">
     <img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-    <a style="margin-left: 5px;" target="_blank" href="https://bit.ly/3NKAfSb">
+    <a style="margin-left: 5px;" target="_blank" href="https://bit.ly/MadoResume">
           <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
