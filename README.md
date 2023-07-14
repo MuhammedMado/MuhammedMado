@@ -1,7 +1,11 @@
 <h1 align="center">Hello 👋, I'm Muhammed Khaled</h1>
 <h3 align="center">Physical Design Engineer </h3>
 
-
+<div align="center">
+  <a href="https://github.com/MuhammedMado/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <div size='20px'> I am Seeking an opportunity in Digital IC Design Engineering to apply my education,technical skills, and passion for innovative digital IC design and i want to connect with
 </div>
 <p></p>
@@ -10,11 +14,7 @@
 <p></p>
 <div size='20px'> My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, and Logic Synthesis.
 </div>
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif">
