@@ -34,7 +34,7 @@
 - 📄 Know about my experiences <a href="https://bit.ly/MadoResume">Resume</a>
 <br/>
 <h3 align="center" >   <a style="margin-left: 10px;" target="_blank" href="https://github.com/MuhammedMado/">
-          <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"></a>Connect with me 🤝 </h3>
+          <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></a>Connect with me 🤝 </h3>
 
 <p></p>
 
