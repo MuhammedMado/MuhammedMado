@@ -19,7 +19,7 @@
 <a target="_blank" align="center">
     <a href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
 
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966">
  
 </a>
 
