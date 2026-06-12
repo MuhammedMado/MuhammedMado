@@ -52,7 +52,7 @@ My areas of interest include ASIC Design, Physical Design, Timing Analysis (STA)
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK_HERE" target="_blank">
+<a href="https://drive.google.com/file/d/1XLzaJEdEFDURUA9INhfs6262gKqXDabV/view" target="_blank">
 <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -60,12 +60,3 @@ My areas of interest include ASIC Design, Physical Design, Timing Analysis (STA)
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedMado&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMado&layout=compact&theme=tokyonight" />
-</p>
