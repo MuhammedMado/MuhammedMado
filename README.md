@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Muhammed Khaled</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2ba14ed9-6b96-4ba8-8201-b18892e13de1" /><h1 align="center">Hello 👋, I'm Muhammed Khaled</h1>
 <h3 align="center">Physical Design Engineer </h3>
 
 <div align="center">
@@ -6,7 +6,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<div size='20px'> I am Seeking an opportunity in Digital IC Design Engineering to apply my education,technical skills, and passion for innovative digital IC design and i want to connect with
+<div size='20px'> I am seeking a technical field engineering role where I can apply my troubleshooting, maintenance, networking, and problem-solving skills. 
 </div>
 <p></p>
 <div size='20px'> Committed to continuous learning and growth in order to contribute to the development of cutting-edge solutions in the field.
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me muhammedkhaledomar@gmail.com
 
-- 📄 Know about my experiences <a href="https://bit.ly/MadoResume">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XLzaJEdEFDURUA9INhfs6262gKqXDabV/">Resume</a>
 <br/>
 <h3 align="center" >   <a style="margin-left: 10px;" target="_blank" href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
           <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></a>Connect with me 🤝 </h3>
@@ -47,7 +47,7 @@
           <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/MuhammedMaDo0/">
     <img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
-    <a style="margin-left: 5px;" target="_blank" href="https://bit.ly/MadoResume">
+    <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1XLzaJEdEFDURUA9INhfs6262gKqXDabV/">
           <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
