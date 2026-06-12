@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Muhammed Khaled</h1>
 
-<h3 align="center">Electronics & Communication Engineer | Digital IC Design Enthusiast</h3>
+<h3 align="center">Electronics & Communication Engineer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="350"/>
@@ -15,16 +15,16 @@ Committed to continuous learning and growth while contributing to innovative eng
 </p>
 
 <p>
-My areas of interest include ASIC Design, Physical Design, Timing Analysis (STA), Logic Synthesis, and Networking.
+My areas of interest include Electronics Engineering, Hardware Troubleshooting, Networking, Digital Systems, and Embedded & Digital Technologies.
 </p>
 
 ---
 
 * 🎓 Electronics and Communication Engineering Graduate from Zagazig University.
 
-* 🌱 Currently learning Physical Verification, Floorplanning, Power Planning, Placement, Routing, and CCNA.
+* 🌱 Currently learning CCNA and strengthening my networking fundamentals while expanding my knowledge in electronics and hardware systems.
 
-* 💬 Ask me about FPGA Design, ASIC Design, Verilog, STA, and Physical Design.
+* 💬 Ask me about Electronics, Hardware Troubleshooting, Networking Fundamentals, Digital Systems, and Verilog.
 
 * 📫 Reach me at: **[muhammedkhaledomar@gmail.com](mailto:muhammedkhaledomar@gmail.com)**
 
@@ -59,4 +59,3 @@ My areas of interest include ASIC Design, Physical Design, Timing Analysis (STA)
 </p>
 
 ---
-
