@@ -1,54 +1,71 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2ba14ed9-6b96-4ba8-8201-b18892e13de1" /><h1 align="center">Hello 👋, I'm Muhammed Khaled</h1>
-<h3 align="center">Physical Design Engineer </h3>
+<h1 align="center">Hello 👋, I'm Muhammed Khaled</h1>
 
-<div align="center">
-  <a href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<div size='20px'> I am seeking a technical field engineering role where I can apply my troubleshooting, maintenance, networking, and problem-solving skills. 
-</div>
-<p></p>
-<div size='20px'> Committed to continuous learning and growth in order to contribute to the development of cutting-edge solutions in the field.
-</div>
-<p></p>
-<div size='20px'> My area of interest lies in ASIC design, Timing analysis(STA), Physical Design, and Logic Synthesis.
-</div>
+<h3 align="center">Electronics & Communication Engineer | Digital IC Design Enthusiast</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="350"/>
+</p>
 
-<a target="_blank" align="center">
-    <a href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
+<p>
+I am seeking a technical engineering role where I can apply my troubleshooting, maintenance, networking, and problem-solving skills.
+</p>
 
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966">
- 
-</a>
+<p>
+Committed to continuous learning and growth while contributing to innovative engineering solutions.
+</p>
 
-- 🔭 I am currently senior student at Zagzig University studying Communication and Electronics Engineering.
+<p>
+My areas of interest include ASIC Design, Physical Design, Timing Analysis (STA), Logic Synthesis, and Networking.
+</p>
 
-- 🌱 I’m currently learning physical verification , Floor planning , Power planning , Placement , Routing and chip finishing.
+---
 
-- 💬  Ask me about FPGA/ASIC Design Design "Verilog, STA, PnR"
+* 🎓 Electronics and Communication Engineering Graduate from Zagazig University.
 
-- 📫 How to reach me muhammedkhaledomar@gmail.com
+* 🌱 Currently learning Physical Verification, Floorplanning, Power Planning, Placement, Routing, and CCNA.
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XLzaJEdEFDURUA9INhfs6262gKqXDabV/">Resume</a>
-<br/>
-<h3 align="center" >   <a style="margin-left: 10px;" target="_blank" href="https://hihello.me/p/00d19f35-c79c-42b0-b924-fd8fb31b4f60?f=email">
-          <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></a>Connect with me 🤝 </h3>
+* 💬 Ask me about FPGA Design, ASIC Design, Verilog, STA, and Physical Design.
 
-<p></p>
+* 📫 Reach me at: **[muhammedkhaledomar@gmail.com](mailto:muhammedkhaledomar@gmail.com)**
+
+* 📄 Resume: <a href="https://drive.google.com/file/d/1XLzaJEdEFDURUA9INhfs6262gKqXDabV/view" target="_blank">View CV</a>
+
+---
+
+<h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammed-mado/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/MuhammedMado/">
-          <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/MuhammedMaDo0/">
-    <img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
-    <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1XLzaJEdEFDURUA9INhfs6262gKqXDabV/">
-          <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+<a href="https://www.linkedin.com/in/muhammed-mado/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/MuhammedMado" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammedkhaledomar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/MuhammedMaDo0/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK_HERE" target="_blank">
+<img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammedMado&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedMado&layout=compact&theme=tokyonight" />
 </p>
